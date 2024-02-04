@@ -1,0 +1,18 @@
+# git ignore variables for python development
+venv
+*.pyc
+__pycache__
+*.egg-info
+*.egg
+*.pyo
+*.pyd
+*.so
+*.dll
+*.exe
+*.tar
+*.zip
+*.tgz
+
+weights/controlnet-seg-room
+weights/stable-diffusion-inpainting
+weights/RealESRGAN_x2plus.pth
